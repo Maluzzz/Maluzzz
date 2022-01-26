@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Frontend developer in React 🙋‍♀️</h3>
 
 
-- 📄 I'm experienced in ``Javascript`` and ``Node`` especially with ``React and React Native``, usage of front-end frameworks, and best practices. Knowledge of Typescript and made little projects using it. Strong experience with ``git``.
+- 📄 I'm experienced in ``Javascript`` and ``Node`` especially with ``React and React Native``, usage of front-end frameworks, and best practices.
 
 - 👨‍💻 I organized the Hacktoberfest’19 event in Andalucía Open Future to teach how to use git & GitHub. You can check the repository [here](https://github.com/Maluzzz/HacktoberFestGifs/)
 
