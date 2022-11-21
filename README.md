@@ -6,7 +6,6 @@
 
 - 👨‍💻 I'm inquisitive and I like to learn a lot! 
 
-- 🌱 I’m currently learning ``Typescript``
 
 
 
