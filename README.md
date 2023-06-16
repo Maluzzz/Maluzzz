@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Frontend developer in React 🙋‍♀️</h3>
 
 
-- 📄 I'm experienced in ``Javascript`` and ``Node`` especially with ``React and Nextjs``, usage of front-end frameworks, and best practices.
+- 📄 I have a lot of hands-on experience with ``JavaScript`` and ``Node.js``, and I absolutely love working with React and Next.js! I'm quite familiar with using front-end frameworks and making sure to follow the ``best practices`` in my development work.
 
 - 👨‍💻 I'm inquisitive and I like to learn a lot! 
 
